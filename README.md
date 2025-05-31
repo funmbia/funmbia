@@ -1,6 +1,6 @@
 ## Hey, I’m Funmbi 
 
-🎓  3rd-year Hons Computer Science student @ *York University*  <br>
+🎓  3rd-year Hons Computer Science student  <br>
 
 👩🏽‍💻  *Programmer* @ *Ontario Public Service* building real world tools  <br>
 
